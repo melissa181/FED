@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Melissa Aksoy">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Mofusand product</title>
+
+    <link href="styles/style.css" rel="stylesheet">
+    <link rel="icon" type="image/svg+xml" href="images/favicon.svg">
+</head>
+
+<body>
+    <header>
+
+        <img src="images/mofulogo.png"
+            alt="mofusand logo saying 'mofusand mofumofu market' and an orange and gray cat in a box next to it. press on it if you want to return to the homepage">
+
+        <img src="images/mofucart.png" alt="cart button with a cat on it wearing black delivery person clothing">
+    </header>
+
+    <main>
+        <a href="#">home</a>
+        <a href="#">products</a>
+
+        <!-- foto's toevoegen -->
+
+        <section>
+            <img src="images/santacatp.png"
+                alt="Santa Nyanuruhurumi: orange/white cat plush in santa clothing and holding a small white christmas bag with a golden cat paw mark on it.">
+
+            <h1>mofusand Present Santa Nyanuruhurumi S</h1>
+
+            <p>Gray Parker Service</p>
+            <p>Product No: </p>
+            <p>4571609350200</p>
+
+            <p>$24.00 USD </p>
+            <p>(tax included)</p>
+
+            <p>Quantity</p>
+            <p>1</p>
+            <p>* Up to 1 per accounting can be purchased</p>
+
+            <p>out of stock</p>
+
+
+
+        </section>
+        <section>
+            <img src="images/shoppinguide.png" alt="shopping guide button with a cute white cat next to it.">
+    
+            <img src="images/frequentlyasked.png" alt="FAQ button with a cute orange/white cat next to it.">
+    
+            <img src="images/createacc.png" alt="create account button with a cute gray/white cat next to it.">
+    
+            <img src="images/info.png" alt="information button">
+        </section>
+    </main>
+
+	<footer>
+		<img src="images/contact.png" alt="">
+		<p>terms of service</p>
+		<p>privacy policy</p>
+		<p>legal notice</p>
+		<p>company profile</p>
+		<p>user guide</p>
+		<p>FAK</p>
+		<p>inquiry</p>
+		<p>OEM inquiry</p>
+
+		<img src="images/insta.png" alt="instagram logo. click on it to go to the official mofusand account.">
+		<img src="images/twitter.png" alt="twitter logo. click on it tp go to the official mofusand account">
+	</footer>
+
+</body>
